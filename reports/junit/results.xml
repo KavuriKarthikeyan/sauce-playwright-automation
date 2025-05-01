@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="7.465268999999999">
+<testsuite name="checkoutFlow.spec.js" timestamp="2025-05-01T14:01:21.038Z" hostname="chromium" tests="1" failures="0" skipped="0" time="2.915" errors="0">
+<testcase name="Sauce  Checkout Flow › a) Sort products by Price (high to low)" classname="checkoutFlow.spec.js" time="2.915">
+</testcase>
+</testsuite>
+<testsuite name="checkoutFlow.spec.js" timestamp="2025-05-01T14:01:21.038Z" hostname="firefox" tests="1" failures="0" skipped="0" time="5.136" errors="0">
+<testcase name="Sauce  Checkout Flow › a) Sort products by Price (high to low)" classname="checkoutFlow.spec.js" time="5.136">
+</testcase>
+</testsuite>
+</testsuites>
